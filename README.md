@@ -2,11 +2,6 @@
 <img src="Images/drf.png" width="320"/>
 </h1>
 
-
-
-##  REST ROAD MAP
-<br>
-
 ✅ Setup Environment <br>
 ✅ Creating a Python API Client <br>
 ✅ Run Django Project <br>
