@@ -2,42 +2,41 @@
 <img src="Images/drf.png" width="320"/>
 </h1>
 
-✅ Setup Environment <br>
-✅ Creating a Python API Client <br>
-✅ Run Django Project <br>
-✅ Create first API View <br>
-✅ Echo GET Data <br>
-✅ Django Model Instance as API Response <br>
-✅ Django Model Instance to Dictionary <br>
-✅ Rest Framework View & Response <br>
-✅ Django Rest Framework Model Serializers <br>
-✅ Ingest Data with Django Rest Framework Views <br>
-✅ Django Rest Framework Generics RetrieveAPIView <br>
-✅ Django Rest Framework CreateAPIView <br>
-✅ Django Rest Framework ListAPIView & ListCreateAPIView <br>
-✅ Using Function Based Views for Create Retrieve or List <br>
-✅ UpdateAPIView & DestroyAPIView <br>
-✅ Mixins and a Generic API View <br>
-✅ Session Authentication & Permissions <br>
-✅ User & Group Permissions with DjangoModelPermissions <br>
-✅ Custom Permissions <br>
-✅ Token Authentication <br>
-✅ Default Django Rest Framework Settings <br>
-✅ Using Mixins for Permissions <br>
-✅ ViewSets & Routers <br>
-✅ URLs, Reverse, & Serializers <br>
-✅ Model Serializer Create & Update Methods <br>
-✅ Custom Validation with Serializers <br>
-✅ Request User Data & Customize View Queryset <br>
-✅ Related Fields & Foreign Key Serializer <br>
-✅ Pagination <br>
-✅ A Django Based Search for Product API <br>
-✅ Building Search Engine on Algolia <br>
-✅ Algolia search Client for Django <br>
-✅ Unified Design of Serializers & Indices <br>
-✅ JSON WEB Token Authentication with SimpleJWT <br>
-✅ Login via JavaScript Client <br>
-✅ Handle Request Blocked by CORS via cors headers <br>
-✅ Using JWT with JS Client <br>
-✅ Search via REST API & JS Client <br>
-✅ Algolia InstantSearch.js
+- [x] Setup Environment <br>
+- [x] Run Django Project <br>
+- [x] Create first API View <br>
+- [x] Echo GET Data <br>
+- [x] Django Model Instance as API Response <br>
+- [x] Django Model Instance to Dictionary <br>
+- [x] Rest Framework View & Response <br>
+- [x] Django Rest Framework Model Serializers <br>
+- [x] Ingest Data with Django Rest Framework Views <br>
+- [x] Django Rest Framework Generics RetrieveAPIView <br>
+- [x] Django Rest Framework CreateAPIView <br>
+- [x] Django Rest Framework ListAPIView & ListCreateAPIView <br>
+- [x] Using Function Based Views for Create Retrieve or List <br>
+- [x] UpdateAPIView & DestroyAPIView <br>
+- [x] Mixins and a Generic API View <br>
+- [x] Session Authentication & Permissions <br>
+- [x] User & Group Permissions with DjangoModelPermissions <br>
+- [x] Custom Permissions <br>
+- [x] Token Authentication <br>
+- [x] Default Django Rest Framework Settings <br>
+- [x] Using Mixins for Permissions <br>
+- [x] ViewSets & Routers <br>
+- [x] URLs, Reverse, & Serializers <br>
+- [x] Model Serializer Create & Update Methods <br>
+- [x] Custom Validation with Serializers <br>
+- [x] Request User Data & Customize View Queryset <br>
+- [x] Related Fields & Foreign Key Serializer <br>
+- [x] Pagination <br>
+- [x] A Django Based Search for Product API <br>
+- [x] Building Search Engine on Algolia <br>
+- [x] Algolia search Client for Django <br>
+- [x] Unified Design of Serializers & Indices <br>
+- [x] JSON WEB Token Authentication with SimpleJWT <br>
+- [x] Login via JavaScript Client <br>
+- [x] Handle Request Blocked by CORS via cors headers <br>
+- [x] Using JWT with JS Client <br>
+- [x] Search via REST API & JS Client <br>
+- [x] Algolia InstantSearch.js
